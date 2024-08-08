@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Extension name",
+    "version": "1.0",
+    "description": "Extension description",
+    "action": {
+      "default_popup": "src/popup.html"
+    },
+    "options_page": "src/options.html"
+}
